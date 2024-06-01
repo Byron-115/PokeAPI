@@ -35,7 +35,7 @@ Pokedex es una página web que muestra una lista de los primeros 151 Pokémon de
 
 ## Demo
 
-https://byron-115.github.io/PokeAPI/
+https://byron-115.github.io/Pokedex/
 
 
 ## Autor
