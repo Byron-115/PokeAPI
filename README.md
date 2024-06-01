@@ -2,7 +2,7 @@
 ![Logo](https://static.wikia.nocookie.net/doblaje/images/4/4b/Pok%C3%A9dex_logo.png/revision/latest?cb=20231114185508&path-prefix=es)
 
 
-# PokeAPI
+# Pokedex
 
 Pokedex es una página web que muestra una lista de los primeros 151 Pokémon de la franquicia Pokémon. Esta página está desarrollada utilizando HTML, CSS y JavaScript, y obtiene los datos de los Pokémon a través de una API.
 
